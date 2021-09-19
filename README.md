@@ -1,4 +1,6 @@
-##Files:
+# Object Detection using TensorFlow Object Detection API
+
+## Files:
 * Training.ipynb: Training script
 * Object Detection.ipynb : Data Preparation and Detection Script
 * Output Files: contains the deliverables.
@@ -54,4 +56,3 @@
 * coco detection metrics was used to evaluate the model on the test set.
 * The mAP , AP and AR values were obtained, and were stored in the json file.
 
-Note: The dataset preparation and custom product detection was done on the local machine, and only the training was done on COLAB, to leverage GPU benefits. The training and detection scripts can be found in two different notebooks.
